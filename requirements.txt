@@ -1,0 +1,10 @@
+flask
+flask-cors
+tensorflow
+pillow
+numpy
+joblib
+werkzeug
+protobuf
+scikit-learn
+scipy
